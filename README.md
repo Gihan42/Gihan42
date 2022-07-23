@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gihan42&label=Profile%20views&color=0e75b6&style=flat" alt="gihan42" /> </p>
 
-- 💬 Ask me about **java prt ,oop**
+- 💬 Ask me about **java Html**
 
 - 📫 How to reach me **gihanm729@gmail.com**
 
