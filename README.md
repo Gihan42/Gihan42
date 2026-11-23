@@ -33,7 +33,7 @@ public class Gihan {
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="./assets/tech-stack.svg" alt="Animated tech stack" width="100%"/>
+<img src="./assets/tech-stack-icons.svg" alt="Animated tech stack" width="100%"/>
 </div>
 
 <table align="center">
